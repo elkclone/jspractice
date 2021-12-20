@@ -1,0 +1,20 @@
+
+.custom_class {
+  color: green;
+  text-align: center;
+  backgound-color: lightgrey;
+  width: auto;
+  border: 20px solid green;
+  padding: 40px;
+  margin: 10px;
+}
+
+.div_class {
+    flex display;
+    flex-direction: column;
+    background-color: lightgrey;
+    margin: 10px;
+    padding: 20px;
+    font-size: 30px;
+  }
+}
